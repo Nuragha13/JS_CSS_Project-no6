@@ -20,7 +20,7 @@ h1 {
 }
 
 .box {
-    background-color: #383737;
+    background-image: linear-gradient(90deg, #a0c154, #33dcd6);
     color: #fafafa;
     display: flex;
     align-items: center;
